@@ -1,0 +1,11 @@
+flask==2.2.3
+llama-index==0.5.0
+load_dotenv==0.1.0
+transformers==4.27.3
+sentencepiece==0.1.97
+Pillow==9.4.0
+docx2txt==0.8
+python-pptx==0.6.21
+pypdf2==3.0.1
+pydub==0.25.1
+git+https://github.com/openai/whisper.git
